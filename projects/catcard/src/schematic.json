@@ -1,0 +1,59 @@
+{
+  "editorVersion": "6.5.50",
+  "docType": "5",
+  "title": "Card",
+  "description": "",
+  "colors": {},
+  "schematics": [
+    {
+      "docType": "1",
+      "title": "Sheet_1",
+      "description": "",
+      "dataStr": {
+        "head": {
+          "docType": "1",
+          "editorVersion": "6.5.50",
+          "newgId": true,
+          "c_para": {
+            "Prefix Start": "1"
+          },
+          "c_spiceCmd": "null",
+          "hasIdFlag": true,
+          "uuid": "22703197c30d42fe8149b4fab4fea50c",
+          "x": "0",
+          "y": "0",
+          "portOfADImportHack": "",
+          "importFlag": 0,
+          "transformList": ""
+        },
+        "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+        "shape": [
+          "LIB~410~-560~package`25X48MM_NFC_ANTENNA`Contributor`dnonoo`spicePre`?`spiceSymbolName`25X48MM_NFC_ANTENNA`Manufacturer Part``~~0~gge55ba0b21422a28ff~565bdc94a5494250b01f75db9b3cfb94~67de74237f294d1498cefd45571b7bfc~0~67d0117420311821~yes~yes~~1571586907~#@$T~N~415~-547.83~0~#000080~Arial~~~~~comment~25X48MM_NFC_ANTENNA~1~start~gge893~0~pinpart#@$T~P~415~-556.83~0~#000080~Arial~~~~~comment~1~1~start~gge899~0~pinpart#@$A~M 408 -570.157 A 5 5 0 0 1 408 -560.157~~#A54B4B~1~0~none~gge905~0#@$A~M 408 -560.157 A 5 5 0 0 1 408 -550.157~~#A54B4B~1~0~none~gge908~0#@$A~M 408 -580.157 A 5 5 0 0 1 408 -570.157~~#A54B4B~1~0~none~gge911~0#@$A~M 408 -550.157 A 5 5 0 0 1 408 -540.157~~#A54B4B~1~0~none~gge914~0#@$P~show~3~P$1~408~-590~90~gge917~0^^408~-590^^M 408 -590 v 9.842~#A54B4B^^0~410.953~-570.47~270~P$1~end~~4.5pt~#A54B4B^^0~406.03~-586.22~270~P$1~start~~4.5pt~#A54B4B^^0~408~-584^^0~M 405 -581 L 408 -578 L 411 -581#@$P~show~3~P$2~408~-530~270~gge938~0^^408~-530^^M 408 -530 v -9.842~#A54B4B^^0~410.953~-549.84~270~P$2~start~~4.5pt~#A54B4B^^0~406.03~-534.094~270~P$2~end~~4.5pt~#A54B4B^^0~408~-536^^0~M 411 -539 L 408 -542 L 405 -539",
+          "LIB~485~-475~package`XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH`Contributor`LCSC`Supplier`LCSC`Supplier Part`C710403`Manufacturer`NXP(恩智浦)`Manufacturer Part`NT3H2111W0FHKH`JLCPCB Part Class`Extended Part`spicePre`U`spiceSymbolName`NT3H2111W0FHKH`~~0~gge54a89154955f5a21~9cb3c3dc03b740d6bb3de64bd413a824~83750b9ec8e049408701bb76a50ed8f9~0~4cbcaac991aba837~yes~yes~9ad52a29a1154ee1a5ccb8650b6070ae~1734918004~9226dcfd58f3430cb1ed5cb86dd5ae01#@$T~N~479.01~-508~0~#000080~Arial~~~~~comment~NT3H2111W0FHKH~1~start~gge1031~0~pinpart#@$T~P~479.01~-516.9~0~#000080~Arial~~~~~comment~U1~1~start~gge1037~0~pinpart#@$P~show~0~8~525~-490~0~gge1043~0^^525~-490^^M 525 -490 h -10~#880000^^1~511.3~-486~0~LB~end~~~#0000FF^^1~515.5~-491~0~8~start~~~#0000FF^^0~518~-490^^0~M 515 -493 L 512 -490 L 515 -487#@$P~show~0~7~525~-480~0~gge1064~0^^525~-480^^M 525 -480 h -10~#880000^^1~511.3~-476~0~VOUT~end~~~#0000FF^^1~515.5~-481~0~7~start~~~#0000FF^^0~518~-480^^0~M 515 -483 L 512 -480 L 515 -477#@$P~show~0~6~525~-470~0~gge1085~0^^525~-470^^M 525 -470 h -10~#FF0000^^1~511.3~-466~0~VCC~end~~~#FF0000^^1~515.5~-471~0~6~start~~~#FF0000^^0~518~-470^^0~M 515 -473 L 512 -470 L 515 -467#@$P~show~0~5~525~-460~0~gge1106~0^^525~-460^^M 525 -460 h -10~#880000^^1~511.3~-456~0~SDA~end~~~#0000FF^^1~515.5~-461~0~5~start~~~#0000FF^^0~518~-460^^0~M 515 -463 L 512 -460 L 515 -457#@$P~show~0~4~445~-460~180~gge1127~0^^445~-460^^M 445 -460 h 10~#880000^^1~458.7~-456~0~FD~start~~~#0000FF^^1~454.5~-461~0~4~end~~~#0000FF^^0~452~-460^^0~M 455 -457 L 458 -460 L 455 -463#@$P~show~0~3~445~-470~180~gge1148~0^^445~-470^^M 445 -470 h 10~#880000^^1~458.7~-466~0~SCL~start~~~#0000FF^^1~454.5~-471~0~3~end~~~#0000FF^^0~452~-470^^0~M 455 -467 L 458 -470 L 455 -473#@$P~show~0~2~445~-480~180~gge1169~0^^445~-480^^M 445 -480 h 10~#000000^^1~458.7~-476~0~VSS~start~~~#000000^^1~454.5~-481~0~2~end~~~#000000^^0~452~-480^^0~M 455 -477 L 458 -480 L 455 -483#@$P~show~0~1~445~-490~180~gge1190~0^^445~-490^^M 445 -490 h 10~#880000^^1~458.7~-486~0~LA~start~~~#0000FF^^1~454.5~-491~0~1~end~~~#0000FF^^0~452~-490^^0~M 455 -487 L 458 -490 L 455 -493#@$E~460~-500~1.5~1.5~#880000~1~0~#880000~gge1211~0#@$R~455~-505~2~2~60~55~#880000~1~0~none~gge1214~0~",
+          "LIB~425~-385~package`LED0805-R-RD`Supplier`LCSC`Manufacturer`KENTO`Manufacturer Part`KT-0805黄灯`Supplier Part`C2296`JLCPCB Part Class`Basic Part`spicePre`L`spiceSymbolName`17-21SUYC/TR8`~~0~ggeeaf7c76cd9344227~82605a93a0be4c79a27d82f67f2aca29~c8c2c558fac9410d08cd9c984c6e32bd~0~2141901573dece3a~yes~yes~79b52fdbafd74a6895e8f5db61702f17~1700205052~4725de4b00fa49ddafaf4d343fb83c18#@$T~N~413.31~-405~0~#000080~Arial~~~~~comment~17-21SUYC/TR8~1~start~gge1409~0~pinpart#@$T~P~413.31~-413.9~0~#000080~Arial~~~~~comment~LED1~1~start~gge1415~0~pinpart#@$PT~M 410 -398 L 414 -396 L 412 -394 Z ~#880000~1~0~#880000~gge1421~0~#@$PT~M 414 -402 L 418 -400 L 416 -398 Z ~#880000~1~0~#880000~gge1424~0~#@$P~show~0~2~405~-385~180~gge1427~0^^405~-385^^M 405 -385 h 15~#800^^0~424~-385~0~-~start~~~#800^^0~416~-389~0~2~end~~~#800^^0~417~-385^^0~M 420 -382 L 423 -385 L 420 -388#@$PL~417 -391 410 -398~#880000~1~0~none~gge1448~0#@$PL~421 -395 414 -402~#880000~1~0~none~gge1451~0#@$P~show~0~1~445~-385~0~gge1454~0^^445~-385^^M 445 -385 h -15~#800^^0~426~-385~0~+~end~~~#800^^0~434~-389~0~1~start~~~#800^^0~433~-385^^0~M 430 -388 L 427 -385 L 430 -382#@$PL~420 -393 420 -377~#880000~1~0~none~gge1475~0#@$PT~M 430 -379 L 420 -385 L 430 -392 Z ~#880000~1~0~#880000~gge1478~0~",
+          "LIB~535~-385~package`R0603`nameAlias`Value`Supplier`LCSC`Manufacturer`UNI-ROYAL(厚声)`Manufacturer Part`0603WAF470JT5E`Supplier Part`C23182`JLCPCB Part Class`Basic Part`spicePre`R`spiceSymbolName`0603WAF470JT5E`~~0~ggefad9e22cd7b7d8f6~398691f1f785460098bbe5ee6590333c~eb434b2d0361cebc504a90772dbca13c~0~3777aae337973ff3~yes~yes~6e283842988f4a0b9b9b9b4a510e5e3a~1700616905~9274445e46564bdf9effaeb437ebf0f7#@$T~N~529.01~-392~0~#000080~Arial~~~~~comment~47Ω~1~start~gge1844~0~pinpart#@$T~P~529.01~-400.9~0~#000080~Arial~~~~~comment~R1~1~start~gge1850~0~pinpart#@$P~show~1~2~555~-385~0~gge1856~0^^555~-385^^M 555 -385 h -10~#000000^^0~540~-382~0~2~end~~~#000000^^0~550~-386~0~2~start~~~#000000^^0~548~-385^^0~M 545 -388 L 542 -385 L 545 -382#@$P~show~1~1~515~-385~180~gge1877~0^^515~-385^^M 515 -385 h 10~#000000^^0~530~-382~0~1~start~~~#000000^^0~520~-386~0~1~end~~~#000000^^0~522~-385^^0~M 525 -382 L 528 -385 L 525 -388#@$R~525~-389~~~20~8~#880000~1~0~none~gge1898~0~",
+          "LIB~485~-420~package`C0603`nameAlias`Value`Supplier`LCSC`Manufacturer Part`CL10B224KA8NNNC`Manufacturer`SAMSUNG(三星)`Supplier Part`C21120`JLCPCB Part Class`Basic Part`spicePre`C`spiceSymbolName`CL10B224KA8NNNC`~~0~gge2903a245da1d666d~f8151fdc728a41ebbc304e11d39e5437~eb859b95857eb549dcd060c0a776a8f7~0~ba125f6ea8f21e3f~yes~yes~669df2ec91af4d2a874b32d0fd49013a~1712685308~1449526df05643fb96b2ab466dc2cd52#@$T~N~479.01~-431~0~#000080~Arial~~~~~comment~220nF~1~start~gge1964~0~pinpart#@$T~P~479.01~-439.9~0~#000080~Arial~~~~~comment~C1~1~start~gge1970~0~pinpart#@$PL~483 -428 483 -412~#880000~1~0~none~gge1976~0#@$PL~487 -428 487 -412~#880000~1~0~none~gge1979~0#@$P~show~1~1~470~-420~180~gge1982~0^^470~-420^^M 470 -420 h 10~#000000^^0~485~-417~0~1~start~~~#000000^^0~475~-421~0~1~end~~~#000000^^0~477~-420^^0~M 480 -417 L 483 -420 L 480 -423#@$P~show~1~2~500~-420~0~gge2003~0^^500~-420^^M 500 -420 h -10~#000000^^0~485~-417~0~2~end~~~#000000^^0~495~-421~0~2~start~~~#000000^^0~493~-420^^0~M 490 -423 L 487 -420 L 490 -417#@$PL~480 -420 483 -420~#880000~1~0~none~gge2024~0#@$PL~487 -420 490 -420~#880000~1~0~none~gge2027~0",
+          "W~525 -480 580 -480 580 -385 550 -385~#008800~1~0~none~gge2102~0",
+          "W~445 -480 390 -480 390 -385 405 -385~#008800~1~0~none~gge2121~0",
+          "W~445 -385 515 -385~#008800~1~0~none~gge2124~0",
+          "W~525 -470 530 -470 530 -480~#008800~1~0~none~gge2130~0",
+          "W~445 -490 408 -490 408 -530~#008800~1~0~none~gge2134~0",
+          "W~525 -490 570 -490 570 -610 408 -610 408 -590~#008800~1~0~none~gge2140~0",
+          "W~500 -420 550 -420 550 -480~#008800~1~0~none~gge2144~0",
+          "W~470 -420 430 -420 430 -480~#008800~1~0~none~gge2148~0",
+          "J~555~-385~2.5~#CC0000~gge2103~0",
+          "J~530~-480~2.5~#CC0000~gge2131~0",
+          "J~550~-480~2.5~#CC0000~gge2145~0",
+          "J~430~-480~2.5~#CC0000~gge2149~0"
+        ],
+        "BBox": {
+          "x": 390,
+          "y": -610,
+          "width": 190,
+          "height": 233
+        },
+        "colors": {}
+      }
+    }
+  ]
+}
